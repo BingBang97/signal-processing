@@ -1,0 +1,18 @@
+﻿  Main.cpp
+d:\projekty\visual studio 2017\projects\przetwarzaniesygnalow1-3\przetwarzaniesygnalow1-3\main.cpp(36): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: zobacz deklarację „scanf”
+d:\projekty\visual studio 2017\projects\przetwarzaniesygnalow1-3\przetwarzaniesygnalow1-3\main.cpp(38): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: zobacz deklarację „scanf”
+d:\projekty\visual studio 2017\projects\przetwarzaniesygnalow1-3\przetwarzaniesygnalow1-3\main.cpp(40): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: zobacz deklarację „scanf”
+d:\projekty\visual studio 2017\projects\przetwarzaniesygnalow1-3\przetwarzaniesygnalow1-3\main.cpp(46): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: zobacz deklarację „scanf”
+d:\projekty\visual studio 2017\projects\przetwarzaniesygnalow1-3\przetwarzaniesygnalow1-3\main.cpp(48): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: zobacz deklarację „scanf”
+d:\projekty\visual studio 2017\projects\przetwarzaniesygnalow1-3\przetwarzaniesygnalow1-3\main.cpp(50): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: zobacz deklarację „scanf”
+d:\projekty\visual studio 2017\projects\przetwarzaniesygnalow1-3\przetwarzaniesygnalow1-3\main.cpp(52): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: zobacz deklarację „scanf”
+d:\projekty\visual studio 2017\projects\przetwarzaniesygnalow1-3\przetwarzaniesygnalow1-3\main.cpp(91): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+  PrzetwarzanieSygnalow1-3.vcxproj -> D:\Projekty\Visual Studio 2017\Projects\PrzetwarzanieSygnalow1-3\Debug\PrzetwarzanieSygnalow1-3.exe
+  PrzetwarzanieSygnalow1-3.vcxproj -> D:\Projekty\Visual Studio 2017\Projects\PrzetwarzanieSygnalow1-3\Debug\PrzetwarzanieSygnalow1-3.pdb (Partial PDB)
